@@ -1,0 +1,8 @@
+HOW TO ADD YOUR FOUR PHOTOS
+
+1. Copy your photos into this assets folder.
+2. Rename them exactly: photo1.jpg, photo2.jpg, photo3.jpg, photo4.jpg
+3. They must actually be JPEG images (if your photos are PNG, convert to JPEG or ask for a PNG-enabled version).
+4. Refresh index.html in your browser.
+
+Tapping a photo card lets you preview a photo on your own device, but the preview is temporary and will NOT be included when you share the website.
